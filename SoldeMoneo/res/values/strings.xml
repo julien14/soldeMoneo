@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Solde Moneo</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_ammount">- €</string>
+
+    <!-- NFC idea 00 B2 01 C4 09  -->
+        <!-- Contactless activity -->
+    <string name="title_activity_contact_less">ContactLess</string>
+    <string name="contactles_enable_nfc">Enable NFC</string>
+    <string name="contactles_enable_nfc_question">Do you wish enable NFC ?</string>
+    <string name="contactles_enable_nfc_question_answer_yes">Yes</string>
+    <string name="contactles_enable_nfc_question_answer_no">No</string>
+    <string name="contactless_insert_card">Put the card on the NFC Reader</string>
+    
+</resources>
